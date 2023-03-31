@@ -5,7 +5,12 @@
 codespaces template for devops
 
 ### Tools
-* 1. [Colab].(https://colab.research.google.com/)
+* [check out the colab notebook].(https://colab.research.google.com/)
+
+* `Makefile`
+
+* `Pytest`
+
+* `Pylint`
 
 ### Reference
-1. 
