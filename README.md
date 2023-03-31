@@ -5,7 +5,7 @@
 codespaces template for devops
 
 ### Tools
-* [check out the colab notebook].(https://colab.research.google.com/)
+* [check out the colab notebook](https://colab.research.google.com/)
 
 * `Makefile`
 
